@@ -11,6 +11,8 @@ const stylesFunc = makeStyles((theme) => ({
     minHeight: '100vh',
     marginTop: "5rem",
     textAlign: "center",
+    alignItems: "center",
+    justifyContent: "center",
   },
   avatar: {
     margin: "1rem auto",
